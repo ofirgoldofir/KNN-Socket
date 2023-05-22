@@ -1,5 +1,5 @@
 
-# <div align=center>Omer and Ofir Advanced programming project</div>
+# <div align=center>KNN Machine Learning Algorithm with Socket Programming</div>
 
 # <div align=center>Advanced-Programming-1-Project</div>
 <div align=center>
